@@ -1,2 +1,2 @@
 # Py_ChatGPT_EDA-PCA
-Roteiro do ChatGPT parte 1
+Roteiro do ChatGPT EDA com PCA parte 1
